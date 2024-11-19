@@ -1,13 +1,4 @@
 # -*- coding : UTF-8 -*-
-"""
--------------------------------------------
- @Company    : 上海米哈游天命科技有限公司
- @Project    : mihoyo-srmqatest
- @Author     : yulong.guo
- @Datetime   : 2024/11/18 20:02
- @Filename   : test_demo.py
- ------------------------------------------
-"""
 import logging
 
 import pytest
