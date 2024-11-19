@@ -21,6 +21,4 @@ class TestDemo():
         {"title": "3"}
     ])
     def test_supplier_page1(self, data):
-        # caplog.set_level("INFO")
-        """供应商接口分页查询"""
         logging.info("Test title: test_supplier_page1")
